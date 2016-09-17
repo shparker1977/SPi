@@ -9,3 +9,4 @@
 - Required python modules
   - cherrypy - `pip install cherryPy`
   - RPi.GPIO - `pip install RPi.GPIO` 
+  - jinja2 - `pip install jinja2`
