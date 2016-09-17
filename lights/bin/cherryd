@@ -1,0 +1,6 @@
+#!/home/shparker/piTests/SPiGpio/lights/bin/python2
+
+import cherrypy.daemon
+
+if __name__ == '__main__':
+    cherrypy.daemon.run()
